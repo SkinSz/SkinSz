@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkinSz
 - 👀 I’m interested in IT, Scripting, Aviation and Music
 - 🌱 I’m currently learning to use PowerShell for my own goals, as an allmighty weapon
-- 💞️ I’m looking to collaborate on ... well you could try to ge me to collaborate one something :P
+- 💞️ I’m looking to collaborate on ... well you could try to ge me to collaborate on your project :P
 - 📫 How to reach me: SkinS@Uplink-Incorporated.net
 
 <!---
